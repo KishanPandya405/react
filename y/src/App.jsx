@@ -1,13 +1,15 @@
 
-import './App.css'
+import Kp from  "./kp"
 
 function App() {
  
 
   return (
-    
-     <h1>start react wit vite | kishan pandya</h1>
-    
+    <>
+    <Kp/>
+    <h1>Kp is the js dev</h1>
+    <p>kp is the logical dev</p>
+    </>
   )
 }
 
