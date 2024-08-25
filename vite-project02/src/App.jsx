@@ -32,7 +32,7 @@ function App() {
   return (
   
     <>
-      <h1>Meet</h1>
+      <h1>Pragnesh</h1>
       <h2>Counter Value: {Counter}</h2>
 
       <button
