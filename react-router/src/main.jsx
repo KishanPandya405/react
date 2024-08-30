@@ -34,7 +34,7 @@ import User from './components/User/User.jsx'
 //       }
 //     ]
 //   }
-// ])
+// ]) 
 
 const router = createBrowserRouter(
   createRoutesFromElements(
